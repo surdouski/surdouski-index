@@ -16,6 +16,11 @@ _This is not an all inclusive list. Just making it a bit easier for me to find m
 - [sniffs](https://github.com/surdouski/sniffs) - MQTT routing. (python)
 
 
+# demos/etc.
+
+- [ph-control](https://github.com/surdouski/ph-control) - Demo for maintaining ph balance in hydroponics reservoir, using the following libraries: `micropython-sniffs`, `micropython-SRBand`, `micropython-persistent-storage`.
+
+
 ## previous work from jobs that had a public repo
 
 - [composapy](https://github.com/surdouski/Composapy) - Composable Analytics integration for jupyterlab notebooks. (python/c# bindings, jupyterlabs)
