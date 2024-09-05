@@ -26,6 +26,3 @@ _Note: This is not an all inclusive list._
 # misc.
 
 - [cobalt-core-runs-schema](https://github.com/surdouski/cobalt-core-runs-schema) - Analysis of your personal stats for the game "Cobalt Core" on steam.
-
-# projects
-
