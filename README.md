@@ -1,9 +1,7 @@
-# Index
-
-_This is not an all inclusive list. Just making it a bit easier for me to find my own repos, for the most part._
+_Note: This is not an all inclusive list._
 
 
-## libraries
+# libraries
 
 - [micropython-sniffs](https://github.com/surdouski/micropython-sniffs) - MQTT routing. (micropython)
   - ```mpremote mip install github:surdouski/micropython-sniffs```
@@ -16,18 +14,18 @@ _This is not an all inclusive list. Just making it a bit easier for me to find m
 - [sniffs](https://github.com/surdouski/sniffs) - MQTT routing. (python)
 
 
-# demos/etc.
+# demos
 
 - [ph-control](https://github.com/surdouski/ph-control) - Demo for maintaining ph balance in hydroponics reservoir, using the following libraries: `micropython-sniffs`, `micropython-SRBand`, `micropython-persistent-storage`.
 
 
-## previous work from jobs that had a public repo
+# previous work from jobs that had a public repo
 
 - [composapy](https://github.com/surdouski/Composapy) - Composable Analytics integration for jupyterlab notebooks. (python/c# bindings, jupyterlabs)
 
-## misc.
+# misc.
 
 - [cobalt-core-runs-schema](https://github.com/surdouski/cobalt-core-runs-schema) - Analysis of your personal stats for the game "Cobalt Core" on steam.
 
-## projects
+# projects
 
