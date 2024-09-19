@@ -13,6 +13,9 @@ _Note: This is not an all inclusive list._
   - ```mpremote mip install github:surdouski/micropython-EZO-pH```
 - [sniffs](https://github.com/surdouski/sniffs) - MQTT routing. (python)
 
+# utilities
+
+- [device-ops](https://github.com/surdouski/device-ops) - Utility for managing device settings over MQTT.
 
 # demos
 
